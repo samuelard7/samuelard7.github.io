@@ -1835,6 +1835,9 @@ input, select, textarea {
 						background-color: transparent;
 					}
 
+	@keyframes fadeIn {
+    to { opacity: 2; }
+}
 /* Actions */
 
 	ul.actions {
