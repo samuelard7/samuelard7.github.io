@@ -1742,6 +1742,12 @@ input, select, textarea {
 				background-color: #3f3f3f;
 			}
 
+.resume-box a:hover {
+    background: #3f3f3f !important;
+    color: wheat !important;
+    text-decoration: none;
+}
+
 /* List */
 
 	ul {
